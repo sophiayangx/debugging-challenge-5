@@ -23,6 +23,7 @@ body {
 }
 
 #background {
-  padding: 50px;
-  background: linear-gradeint(blue, green);
+  padding: 40px;
+  margin-top: 50px;
+  background: linear-gradient(blue, green);
 }
