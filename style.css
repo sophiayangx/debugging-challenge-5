@@ -7,7 +7,15 @@ body {
   background: blue;
 }
 
-#padding {}
+#padding {
+padding: 50px;
+border: 3px;
+}
 
-#border {}
+#border {
 
+}
+
+#background {
+  
+}
