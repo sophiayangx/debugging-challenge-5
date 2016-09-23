@@ -12,11 +12,15 @@ body {
 #padding {
   padding: 20px;
   border-style: solid;
-  border-color: darkblue;
+  border-color: darkgreen;
+  margin-top: 50px;
 }
 
 #border {
   padding: 50px;
+  margin-top: 50px;
+  border-style: ridge;
+  border-color: darkgreen;
 }
 
 #background {
