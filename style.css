@@ -17,7 +17,6 @@ body {
 }
 
 #border {
-  padding: 50px;
   margin-top: 50px;
   border-style: ridge;
   border-color: darkgreen;
@@ -25,4 +24,5 @@ body {
 
 #background {
   padding: 50px;
+  background: linear-gradeint(blue, green);
 }
