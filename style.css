@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  
+  margin-left: 90px;
+  margin-right: 90px;
 }
 
 #title {
@@ -9,8 +10,9 @@ body {
 }
 
 #padding {
-  padding: 50px;
+  padding: 20px;
   border-style: solid;
+  border-color: darkblue;
 }
 
 #border {
